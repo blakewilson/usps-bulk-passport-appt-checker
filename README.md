@@ -20,6 +20,10 @@ Config values can be set like:
 export ZIP_CODE=78701
 ```
 
+```bash
+export NOTIFY_BEFORE_DATE=2022/12/31
+```
+
 ### Run the script
 
 ```bash
